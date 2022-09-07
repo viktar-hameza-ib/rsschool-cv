@@ -38,4 +38,6 @@ Geographic Information System Specialist.
 
 ## Languages
 
-Belarusian Russian English
+- Belarusian
+- Russian
+- English
